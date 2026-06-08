@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pascalw/dashbling.git"
+    "url": "https://github.com/joel-carpenter/dashbling.git"
   },
   "bin": {
     "dashbling": "./lib/cli.js"
